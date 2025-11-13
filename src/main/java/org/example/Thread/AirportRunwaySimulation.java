@@ -9,7 +9,7 @@ public class AirportRunwaySimulation {
         plane p1 = new plane("AI101", runway);
         plane p2 = new plane("BA202", runway);
         plane p3 = new plane("EK303", runway);
-
+        //start
         p1.start();
         p2.start();
         p3.start();

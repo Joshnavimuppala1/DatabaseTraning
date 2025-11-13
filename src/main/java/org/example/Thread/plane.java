@@ -1,7 +1,7 @@
 package org.example.Thread;
 
 public class plane  extends Thread{
-
+//
     private String planeId;
     private Runway runway;
 
